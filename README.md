@@ -26,7 +26,9 @@ after the `if cookie_loaded:` statement
 
 ## Quickstart
 1 - In `main.py` enter your instagram credentials in place of the `userName` and `passWord` variables.
+
 2 - Configure the file and set the desired comments, delays and volume of posts targeted in `main.py`
+
 3 - Run the program by entering `python main.py` plus your desired tags targeted, for example `python main.py vase minimalism` would target the hashtags "vase" and "minimalism"
 
 ## Contact
