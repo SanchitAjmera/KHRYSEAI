@@ -8,7 +8,9 @@ userName = "burner123490"
 passWord = "burner1234"
 
 # Tags targeted
-tags = [sys.argv[1]]
+tags = []
+for i in range(1,len(sys.argv)):
+    tags.append(sys.argv[i])
 
 # Volume of posts targeted
 volume = 1
