@@ -32,5 +32,5 @@ after the `if cookie_loaded:` statement
 3 - Run the program by entering `python main.py` plus your desired tags targeted, for example `python main.py vase minimalism` would target the hashtags "vase" and "minimalism"
 
 ## Contact
-If you have any issues or have any questions, please raise an issue on Github or contact me directly at sanchitajmera2017@gmail.com 
+If you have any issues or have any questions, please raise an issue on Github 
 
